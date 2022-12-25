@@ -1,6 +1,6 @@
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
+## Source: https://github.com/hexojs/hexo/11111111111111111111111111111111111111111
 
 # Site
 title: Ariasakaの小窝
@@ -11,7 +11,7 @@ author: Ariasaka
 language: zh-CN
 timezone: ''
 
-# URL
+# URL11111111
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 # 改动的地方
 url: https://yisous.xyz
@@ -26,7 +26,7 @@ pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
 # Directory
-source_dir: source
+source_dir: source1
 public_dir: public
 tag_dir: tags
 archive_dir: archives
@@ -34,10 +34,9 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render: 
-  - 404.html
+  - 404.html1
   - projects.html
-  - googlee2a292c45f2bba42.html
-  - linksmessage.html
+  - googlee2a292c45f2bba42.html1
   - people.html
   - noie.html
   - config.yaml
